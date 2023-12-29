@@ -13,10 +13,23 @@ true = 1; false = 0;
 Null = 0
 */
 
-let isLoggedIn = "hitesh"
-let booleanIsLoggedIn = Boolean(isLoggedIn) //typecasting
-console.log(booleanIsLoggedIn); 
+// let isLoggedIn = "hitesh"
+// let booleanIsLoggedIn = Boolean(isLoggedIn) //typecasting
+// console.log(booleanIsLoggedIn); 
 
 // various outputs
 // 1 => true; 0= false; 
 // string = true mein convert and empty string ko false
+
+//****************** operations */
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);//power
+// console.log(2/2);
+// console.log(2%2);
+
+let str1 = "hello"
+let str2=" vedant"
+let str3=str1 + str2
+console.log(str3);
